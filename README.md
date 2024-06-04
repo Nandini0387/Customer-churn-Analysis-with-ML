@@ -7,7 +7,7 @@ In this repository, I have performed the end to end Exploratory Data Analysis, a
 ### For Model Deployment, please refer to app.py
 
 
-### Creating the flask API
+## Creating the flask API
 
 ```
 app = Flask("__name__")
